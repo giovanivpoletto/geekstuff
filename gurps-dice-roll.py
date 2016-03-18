@@ -1,3 +1,4 @@
+#python version 3.4
 import random
 option="f"
 while option != "e":
